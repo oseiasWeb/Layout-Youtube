@@ -3,8 +3,66 @@ body {
 }
 
 .container {
-    background-color: orange;
     margin: 38px 35px;
     display: flex;
+    align-items: center;
+    width: 900px;
+    height: 420px;
+}
+
+.video-destaque {
+    align-items: center;
+    height: 100%;
+}
+
+.video-destaque iframe {
+    align-items: center;
+}
+
+.video-destaque h1 {
+    font-size: 17px;
+    font-weight: 700;
+    margin-top: 12px;
+}
+
+.video-destaque h2 {
+    font-size: 14px;
+    font-weight: 300;
+    margin-top: 7px;
+}
+
+.video-destaque p {
+    font-size: 16px;
+    font-weight: 300;
+    margin-top: 9px;
+    padding-right: 22px;
+}
+
+.proximo-conteudo {
+    height: 100%;    
+}
+
+.proximo-conteudo .lista-videos {
+    display: flex;
+}
+
+.proximo-conteudo img{
+    margin-bottom: 20px;
+}
+
+.proximo-conteudo .lista-videos {
+    margin-bottom: 16px;
+}
+
+.proximo-conteudo .lista-videos div h1{
+    font-size: 14px;
+    font-weight: 700;
+    padding: 4px;
+}
+
+.proximo-conteudo .lista-videos div p{
+    font-size: 11px;
+    font-weight: 300;
+    padding: 4px;
 }
 
