@@ -1,6 +1,6 @@
 <h1 align="center">Layout Youtube ▶️</h1>
 
-<p>asdf</p>
+<p>Desafio Html/Css avançado do curso DevQuest. O arquivo com as informações de configuração, tamanho de fonte e outros foram disponibilizados pelo Figma.</p>
 
 <div align="center" valign="top"><br>
  <h2>🕹️ Tecnologias Utilizadas</h2>
@@ -10,17 +10,10 @@
     </ul>
 </div><br>
 
-<!-- <h2 align="center">🤔 Como Utilizar</h2>
- <p>sadf</p><br>
-<img align="center" src="./img/animacao.gif" alt="Gif sistema" title="Gif sistema"><p><i>Gif - funcionalidades do sistem</i></p> -->
+<h2 align="center">⚔️ Quest Avançado - Dev em dobro</h2>
+ <p>O desafio era criar um layout baseado no Youtube. Abaixo temos uma imagem da página criada:</p><br>
+<img align="center" src="./src/img/pagina.png" alt="Gif sistema" title="Gif sistema"><p><i>Página do desafio</i></p>
 
-<!-- <h2 align="center">📐 Página Responsiva ✂️</h2>
-<p>O projeto apresenta responsividade na navegação dos principais dispositivos:<br></p>
-<ul>
-    <li>Desktop 🖥️</li>
-    <li>Tablet 💻</li>
-    <li>Smartphone 📱</li>
-</ul>
 <img align="center" src="#" alt="Imagem do sistema" title="Imagem do sistema"><p><i>Gif - Responsividade da página em diversas telas.</i></p> -->
 
 <h2 align="center">🔗 Link da página</h2>
