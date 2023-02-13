@@ -3,18 +3,36 @@ body {
 }
 
 .container {
-    margin: 38px 35px;
-    display: flex;
-    align-items: center;
-    width: 900px;
-    height: 420px;
+    background-color: greenyellow;
+    max-width: 900px;
+    display: grid;
+    grid-template-areas: "video-destaque propaganda"
+                         "video-destaque proximo-conteudo";
+
+    grid-template-columns: 1fr 270px;
+    grid-template-rows: 56px 1fr;
 }
 
 .video-destaque {
-    align-items: center;
-    height: 100%;
+    background-color: aqua;
+    grid-area: video-destaque;
 }
 
+.propaganda {
+    background-color: orange;
+    grid-area: propaganda;
+}
+
+.proximo-conteudo {
+    background-color: palevioletred;
+    grid-area: proximo-conteudo;
+}
+
+
+
+
+
+/* Atualização código*/
 .video-destaque iframe {
     align-items: center;
 }
