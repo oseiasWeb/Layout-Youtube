@@ -15,8 +15,9 @@ html {
     padding: 38px 35px;
 }
 
-.video-destaque {
+.video-destaque img {
     grid-area: video-destaque;
+    width: 100%;
 }
 
 .propaganda {

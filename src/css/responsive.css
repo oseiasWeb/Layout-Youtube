@@ -1,36 +1,13 @@
-@media(max-width: 940px) {
+@media(max-width: 930px) {
     .container {
         display: block;
     }
 
     .video-destaque p {
-        width: 620px;
+        margin-bottom: 12px;
     }
 
-    .proximo-conteudo {
-        margin-top: 20px;
-    } 
-
-}
-
-@media(max-width: 660px) {
-    .video-destaque iframe {
-        width: 580px;
-        height: 300px;
+    .propaganda img {
+        margin-bottom: 10px;
     }
-}
-
-@media(max-width: 420px) {
-    .video-destaque p {
-        width: 320px;
-    }
-    .proximo-conteudo {
-        margin-top: 60px;
-    } 
-
-    .video-destaque iframe {
-        width: 350px;
-        height: 220px;
-    }
-
 }
